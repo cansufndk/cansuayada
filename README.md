@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cansuayada
 - 👀 I’m interested in frontend ...
 - 🌱 I’m currently learning react... 
-- 💞️ I’m looking to collaborate on frontend developer
 - 📫 How to reach me linkedin
 
 <!---

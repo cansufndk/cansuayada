@@ -5,7 +5,7 @@ React Native - Frontend Developer
 ---------------------------------
 
 * 🌍  I'm based in istanbul
-* 🖥️  See my portfolio at [Frontend Mentor](http://https://www.frontendmentor.io/profile/cansuayada)
+* 🖥️  See my portfolio at [Frontend Mentor](http://https://www.frontendmentor.io/profile/Cansuayada)
 * ✉️  You can contact me at [cansu.ayada.2@gmail.com](mailto:cansu.ayada.2@gmail.com)
 * 🧠  I'm learning React Native
 

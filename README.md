@@ -33,10 +33,10 @@ React Native - Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/cansuayada"><img src="https://github-readme-stats.vercel.app/api?username=cansuayada&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="cansuayada's GitHub stats" /></a>
+<!--<a href="http://www.github.com/cansuayada"><img src="https://github-readme-stats.vercel.app/api?username=cansuayada&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="cansuayada's GitHub stats" /></a>-->
 
 
-<!--![Github stats 2](https://github-readme-stats.vercel.app/api?username=cansuayada&show_icons=true&theme=radical)->
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=cansuayada&show_icons=true&theme=radical)
 <!---
 cansuayada/cansuayada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

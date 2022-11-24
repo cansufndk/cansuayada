@@ -1,6 +1,4 @@
-(https://giphy.com/clips/hamlet-memory-forgot-dont-remember-Kl3t2ETanLWAqYQPXT)
-
-<iframe src="https://giphy.com/embed/JDAVoX2QSjtWU" width="480" height="247" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/harry-potter-ron-weasley-JDAVoX2QSjtWU">via GIPHY</a></p>
+![](https://giphy.com/clips/hamlet-memory-forgot-dont-remember-Kl3t2ETanLWAqYQPXT)
 
 - 👋 Hi, I’m @cansuayada
 - 👀 I’m interested in frontend ...
